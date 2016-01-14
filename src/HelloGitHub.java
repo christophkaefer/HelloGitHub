@@ -5,7 +5,7 @@ public class HelloGitHub
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
-		System.out.println("Hallo GitHub!");
+		System.out.println("Hallo GitHub, ich bin der zweite Entwickler!");
 
 	}
 
